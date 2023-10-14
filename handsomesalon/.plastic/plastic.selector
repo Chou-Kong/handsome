@@ -1,0 +1,4 @@
+repository "handsomesalon@handsome@cloud"
+  path "/"
+    br "/main"
+    co "/main"
